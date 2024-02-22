@@ -6,6 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-[Play Game](https://docs.flutter.dev/get-started/codelab](https://azadkiziltas-flutter-color-game.netlify.app).
+[Play Game](https://azadkiziltas-flutter-color-game.netlify.app)
 
 
